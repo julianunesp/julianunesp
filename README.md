@@ -23,7 +23,12 @@
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Como conquistar uma vida mais plena? (E bem sucedida)](https://ytcards.demolab.com/?id=DllvImYYPa0&title=Como+conquistar+uma+vida+mais+plena%3F+%28E+bem+sucedida%29&lang=en&timestamp=1747497743&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=861 "Como conquistar uma vida mais plena? (E bem sucedida)")](https://www.youtube.com/watch?v=DllvImYYPa0)
+[![TODO MUNDO vai precisar PROGRAMAR no FUTURO?](https://ytcards.demolab.com/?id=xuR9iNiSQkg&title=TODO+MUNDO+vai+precisar+PROGRAMAR+no+FUTURO%3F&lang=en&timestamp=1745665289&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=982 "TODO MUNDO vai precisar PROGRAMAR no FUTURO?")](https://www.youtube.com/watch?v=xuR9iNiSQkg)
+[![eu quero fazer isso pro RESTO DA MINHA VIDA?](https://ytcards.demolab.com/?id=yOBI8moNppk&title=eu+quero+fazer+isso+pro+RESTO+DA+MINHA+VIDA%3F&lang=en&timestamp=1744146058&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=868 "eu quero fazer isso pro RESTO DA MINHA VIDA?")](https://www.youtube.com/watch?v=yOBI8moNppk)
+[![Nova fase: vida real, tech e propósito](https://ytcards.demolab.com/?id=Xsxc5ZfftR8&title=Nova+fase%3A+vida+real%2C+tech+e+prop%C3%B3sito&lang=en&timestamp=1743812102&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=337 "Nova fase: vida real, tech e propósito")](https://www.youtube.com/watch?v=Xsxc5ZfftR8)
+[![Platform Engineer para Iniciantes | DevOpsDays Campinas 2024](https://ytcards.demolab.com/?id=KcXp4u2NcVY&title=Platform+Engineer+para+Iniciantes+%7C+DevOpsDays+Campinas+2024&lang=en&timestamp=1729688431&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2682 "Platform Engineer para Iniciantes | DevOpsDays Campinas 2024")](https://www.youtube.com/watch?v=KcXp4u2NcVY)
+[![Segurança do seu Cluster com Kube-Bench | CIS Benchmark](https://ytcards.demolab.com/?id=LfVNA1oQPjg&title=Seguran%C3%A7a+do+seu+Cluster+com+Kube-Bench+%7C+CIS+Benchmark&lang=en&timestamp=1714748427&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=838 "Segurança do seu Cluster com Kube-Bench | CIS Benchmark")](https://www.youtube.com/watch?v=LfVNA1oQPjg)
 <!-- END YOUTUBE-CARDS -->
 
 
